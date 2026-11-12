@@ -1,0 +1,12 @@
+[book]
+title = "Maps of Meaning: Two Ways of Looking at the World — Jordan Peterson Study Wiki"
+authors = ["iamflipse"]
+description = "A plain-language study guide to Jordan B. Peterson's Maps of Meaning lecture series, Two Ways of Looking at the World: 54 sections in 11 parts, 40 concepts, and short exact quotes."
+language = "en"
+
+[build]
+charset = "utf-8"
+
+[output.html]
+site-url = "/maps-of-meaning-wiki/"
+git-repository-url = "https://github.com/iamflipse/maps-of-meaning-wiki"
